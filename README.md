@@ -3,16 +3,16 @@ Autor: Ladislav Jaromír Pleštil<br>
 Licence: MIT Licence
 
 ## Obsah
-- [Výstup](./vystup/README.md)
-- [Komentáře](./komentare/README.md)
-- [Proměnné](./promenne/README.md)
-- [Datové typy](./datoveTypy/README.md)
-- [Aritmetické operace](./aritmetickeOperace/README.md)
-- [Podmínky a logické operace](./podminkyLogickeOperace/README.md)
-- [Cykly](./cykly/README.md)
-- [Funkce](./funkce/README.md)
-- [Práce s textem](./praceSTextem/README.md)
-- [Vstup](./vstup/README.md)
+- [__Výstup__](./vystup/README.md)
+- [__Komentáře__](./komentare/README.md)
+- [__Proměnné__](./promenne/README.md)
+- [__Datové typy__](./datoveTypy/README.md)
+- [__Aritmetické operace__](./aritmetickeOperace/README.md)
+- [__Podmínky a logické operace__](./podminkyLogickeOperace/README.md)
+- [__Cykly__](./cykly/README.md)
+- [__Funkce__](./funkce/README.md)
+- [__Práce s textem__](./praceSTextem/README.md)
+- [__Vstup__](./vstup/README.md)
 
 ## Struktura
 Domovská stránka je v kořenové složce tohoto repo. Právě teď se na ní díváte.<br>
